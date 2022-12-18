@@ -134,7 +134,7 @@
       </a>
       <a href="http://etapes.com/" target="_blank" rel="nofollow" class="element">
         <h3>Étapes</h3>
-        <p>Revue de design graphique</p>
+        <p>Revue bimestrielle du design, de l'image et de la création</p>
       </a>
     </div>
     <h2 id="siteweb">Site d'inspiration</h2>
@@ -218,14 +218,30 @@
         <h3>Logo inspiration</h3>
         <p>Site d'inspiration de logo</p>
       </a>
-      <a href="https://www.visualcapitalist.com/" target="_blank" rel="nofollow" class="element">
-        <h3>Visual capitalist</h3>
-        <p>Site d'inspiration de data viz</p>
-      </a>
       <a href="https://www.underconsideration.com/brandnew/" target="_blank" rel="nofollow" class="element">
         <h3>Underconsideration</h3>
         <p>Site d'inspiration de logo commenté par les auteurs</p>
         <p class="info">Version gratuite limité</p>
+      </a>
+      <a href="https://www.visualcapitalist.com/" target="_blank" rel="nofollow" class="element">
+        <h3>Visual capitalist</h3>
+        <p>Site d'inspiration de data viz</p>
+      </a>
+      <a href="https://datavizproject.com/" target="_blank" rel="nofollow" class="element">
+        <h3>Dataviz Project</h3>
+        <p>Dictionnaire de la data viz</p>
+      </a>
+      <a href="https://film-grab.com/" target="_blank" rel="nofollow" class="element">
+        <h3>Film Grab</h3>
+        <p>Archive de capture de scene de film</p>
+      </a>
+      <a href="https://www.fontpair.co/fonts" target="_blank" rel="nofollow" class="element">
+        <h3>Fontpair</h3>
+        <p>Exemple de polices utilisée ensemble</p>
+      </a>
+      <a href="https://fontsinuse.com/" target="_blank" rel="nofollow" class="element">
+        <h3>Font in Use</h3>
+        <p>Archive de création graphique</p>
       </a>
     </div>
     <h2 id="outil">Outil en ligne</h2>
@@ -274,15 +290,10 @@
         <h3>Mesh Gradiant</h3>
         <p>Générateur de dégradé complexe</p>
       </a>
-      <a href="https://www.fontpair.co/fonts" target="_blank" rel="nofollow" class="element">
-        <h3>Fontpair</h3>
-        <p>Exemple de polices utilisée ensemble</p>
-      </a>
       <a href="https://fontjoy.com/" target="_blank" rel="nofollow" class="element">
         <h3>Font Joy</h3>
         <p>Générateur de paire de police</p>
       </a>
-      
     </div>
 
     <h2 id="logiciel">Logiciel</h2>
@@ -290,26 +301,32 @@
       <a href="https://fontforge.org/en-US/" target="_blank" rel="nofollow" class="element">
         <h3>Font Forge</h3>
         <p>Éditeur de polices de caractère</p>
+        <p class="info">Logiciel Libre</p>
       </a>
       <a href="https://affinity.serif.com/fr/" target="_blank" rel="nofollow" class="element">
         <h3>Suite Affinity</h3>
         <p>3 Logiciels professionnel : retouche photo, design graphique et PAO.</p>
+        <p class="info">Commerciale 199€</p>
       </a>
       <a href="https://www.adobe.com/fr/creativecloud.html" target="_blank" rel="nofollow" class="element">
         <h3>Suite Adobe</h3>
         <p>Suite de logiciel pro de création numérique</p>
+        <p class="info">Commerciale 684€/an</p>
       </a>
       <a href="https://spline.design/" target="_blank" rel="nofollow" class="element">
         <h3>Spline</h3>
         <p>Logiciel 3d pour le web (à tester)</p>
+        <p class="info">Freemium</p>
       </a>
       <a href="https://procreate.art/" target="_blank" rel="nofollow" class="element">
         <h3>ProCreate</h3>
         <p>Logiciel pour Ipad pour l'illustration et la peinture numérique</p>
+        <p class="info">Commerciale 16€</p>
       </a>
       <a href="https://www.canva.com/fr_fr/" target="_blank" rel="nofollow" class="element">
         <h3>Canva</h3>
         <p>Outil d'édition en ligne conçu pour les non-professionnel du design graphique, permet de modifier facilement des designs</p>
+        <p class="info">Freemium</p>
       </a>
     </div>
     <h2 id="video">Vidéo</h2>
@@ -397,20 +414,16 @@
       </a>
       <a href="https://animockup.com" target="_blank" rel="nofollow" class="element">
         <h3>Animockup</h3>
-        <p>Intégrer des videos a vos mockup</p>
+        <p>Intégrer des vidéos a vos mockup</p>
       </a>
       <a href="https://www.designermill.com" target="_blank" rel="nofollow" class="element">
         <h3>Designermill</h3>
         <p>ressources graphique : Mockup, kit ui, font</p>
       </a>
-
-      <a href="https://iconscout.com/icons" target="_blank" rel="nofollow" class="element">
-        <h3>Iconscout</h3>
-        <p>Librairie d'icones</p>
-      </a>
-      <a href="https://iconscout.com/icons" target="_blank" rel="nofollow" class="element">
-        <h3>Iconscout</h3>
-        <p>Librairie d'icones</p>
+      <a href="https://icons.getbootstrap.com/" target="_blank" rel="nofollow" class="element">
+        <h3>Bootstrap Icon</h3>
+        <p>Librairie d’icônes</p>
+        <p class="info">Licence MIT</p>
       </a>
       <a href="https://opendoodles.com" target="_blank" rel="nofollow" class="element">
         <h3>Open Doodles</h3>
@@ -431,6 +444,7 @@
       <a href="https://www.openpeeps.com/" target="_blank" rel="nofollow" class="element">
         <h3>Open Peeps</h3>
         <p>Librairie d'illustration à la main</p>
+        <p class="info">Licence CC0</p>
       </a>
       <a href="https://www.scribbbles.design/" target="_blank" rel="nofollow" class="element">
         <h3>Scribbbles</h3>

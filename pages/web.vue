@@ -158,6 +158,10 @@
         <h3>Can I Use</h3>
         <p>Vérifier la compatibilité du code</p>
       </a>
+      <a href="https://responsively.app" target="_blank" rel="nofollow"   class="element">
+        <h3>Can I Use</h3>
+        <p>Vérifier la compatibilité du code</p>
+      </a>
       <a href="https://grid.layoutit.com" target="_blank" rel="nofollow"   class="element">
         <h3>Grid Layoutit</h3>
         <p>Générateur de grille grid</p>
@@ -195,9 +199,9 @@
         <p>Outil de création d’arborescence</p>
         <p class="info">Gratuit</p>
       </a>
-      <a href="https://octopus.do" target="_blank" rel="nofollow"   class="element">
-        <h3>Octopus</h3>
-        <p>Outil de création d’arborescence et de structure du contenu OOUX</p>
+      <a href="https://n8n.io/" target="_blank" rel="nofollow"   class="element">
+        <h3>N8n io</h3>
+        <p>Outil d'automatisation</p>
       </a>
       <a href="https://webcode.tools/generators/json-ld/" target="_blank" rel="nofollow"   class="element">
         <h3>The Ultimate JSON-LD Generator</h3>
@@ -215,30 +219,35 @@
       </a>
       <a href="https://metatags.io" target="_blank" rel="nofollow"   class="element">
         <h3>Visionneuse de méta donnée de site</h3>
-        <p>Outil pour vérifier l'affichage de vos métadonnée sur Google et les platformes sociales</p>
+        <p>Outil pour vérifier l'affichage de vos métadonnée sur Google et les plateformes sociales</p>
       </a>
       <a href="https://filezilla-project.org/" target="_blank" rel="nofollow"   class="element">
         <h3>Filezilla</h3>
-        <p>Logiciel FTP, transferer des fichiers sur les serveurs web</p>
+        <p>Logiciel FTP, transférer des fichiers sur les serveurs web</p>
       </a>
       <a href="https://code.visualstudio.com/" target="_blank" rel="nofollow"   class="element">
         <h3>Visual Studio</h3>
         <p>Logiciel d'édition de projet web et de développement</p>
       </a>
-      <a href="https://easyappointments.org/" target="_blank" rel="nofollow"   class="element">
-        <h3>Easy Appointments</h3>
-        <p>Plateformes self-hosted pour gérer les rendez-vous</p>
-        <p class="info">Licence GPL 3</p>
-      </a>
       <a href="https://github.com/desirepath41/visualCaptcha" target="_blank" rel="nofollow"   class="element">
         <h3>Visual Captcha</h3>
-        <p>Service de Captcha anti-robot self-hosted </p>
+        <p>Service de Captcha anti-robot self-hosted<br>Note : il est préférable d'utiliser des solutions "honeypot"
+        </p>
         <p class="info">self-hosted</p>
       </a>
       <a href="https://keyframes.app/animate/" target="_blank" rel="nofollow"   class="element">
         <h3>Keyframes App</h3>
         <p>Créer en ligne des animations css complexe facilement </p>
       </a>
+      <a href="https://kastor.green/" target="_blank" rel="nofollow"   class="element">
+        <h3>Kastor Green</h3>
+        <p>Générateur d'audit d'éco-conception de site</p>
+      </a>
+      <a href="https://wave.webaim.org/" target="_blank" rel="nofollow"   class="element">
+        <h3>Wave</h3>
+        <p>Outil d'analyse d’accessibilité de site web</p>
+      </a>
+      
     </div>
     <h2 id="hebergeur">Hébergeur</h2>
     <div class="groupe-element">
@@ -249,13 +258,13 @@
       <a href="https://www.planethoster.com/fr/Hebergements-World" target="_blank" rel="nofollow"   class="element">
         <h3>Planethoster</h3>
         <p>Hébergeur à formule gratuite et payante de site static et dynamique</p>
-        <p class="info">6€/mois + freenium</p>
+        <p class="info">5€/mois + freenium</p>
       </a>
       <a href="https://www.o2switch.fr/" target="_blank" rel="nofollow"   class="element">
         <h3>O2switch</h3>
         <p>Hébergeur à formule unique et illimité (base de donnée, espace disque, boite mail, transfert). Hébergement en
           France </p>
-        <p class="info">6€/mois</p>
+        <p class="info">7€/mois</p>
       </a>
       <a href="https://www.infomaniak.com/fr/hebergement/web-et-mail/hebergement-web" target="_blank" rel="nofollow"   class="element">
         <h3>Infomaniak</h3>
@@ -280,7 +289,6 @@
         <p>CMS sans base de données, self-hosted</p>
         <p class="info">Licence MIT</p>
       </a>
-
       <a href="https://strapi.io/" target="_blank" rel="nofollow"   class="element">
         <h3>Strapi</h3>
         <p>CMS qui délivre les données pour tout type d'application avec des APIs</p>
@@ -288,28 +296,24 @@
     </div>
     <h2 id="framework">Framework</h2>
     <div class="groupe-element">
-      <a href="https://fr.nuxtjs.org" target="_blank" rel="nofollow"   class="element">
-        <h3>Nuxt js</h3>
-        <p>framework front-end basé sur vue.js</p>
+      <a href="https://nuxt.com" target="_blank" rel="nofollow"   class="element">
+        <h3>Nuxt</h3>
+        <p>Framework front-end basé sur vue.js</p>
       </a>
-      <a href="https://svelte.dev" target="_blank" rel="nofollow"   class="element">
-        <h3>Svelte js</h3>
-        <p>framework front-end</p>
+      <a href="https://kit.svelte.dev/" target="_blank" rel="nofollow"   class="element">
+        <h3>Svelte Kit</h3>
+        <p>Framework front-end</p>
       </a>
       <a href="https://nextjs.org" target="_blank" rel="nofollow"   class="element">
         <h3>Next js</h3>
-        <p>framework front-end basé sur react.js</p>
+        <p>Framework front-end basé sur react.js</p>
       </a>
       <a href="https://laravel.com" target="_blank" rel="nofollow"   class="element">
         <h3>Laravel</h3>
-        <p>framework back-end php</p>
+        <p>Framework back-end php</p>
       </a>
     </div>
-
-
-
   </div>
-
 </template>
 
 <script>

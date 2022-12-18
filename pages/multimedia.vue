@@ -123,8 +123,6 @@
         </p>
       </a>
     </div>
-
-
   </div>
 </template>
 

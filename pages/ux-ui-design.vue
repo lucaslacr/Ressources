@@ -184,7 +184,6 @@
         </div>
       </a>
     </div>
-
     <h2 id="inspiration">Inspiration</h2>
     <div class="groupe-element">
       <a href="https://www.awwwards.com/" target="_blank" rel="nofollow" class="element">
@@ -243,16 +242,23 @@
         <h3>Design Vault</h3>
         <p>Collection de composant pour s'inspirer</p>
         <p class="info">Inspiration de composant</p>
-
+      </a>
+      <a href="https://www.landing.love/" target="_blank" rel="nofollow" class="element">
+        <h3>Landing Love</h3>
+        <p>Showcase de sites web animé</p>
+        <p class="info">Inspiration de composant</p>
+      </a>
+      <a href="https://www.gameuidatabase.com/index.php" target="_blank" rel="nofollow" class="element">
+        <h3>Game UI Database</h3>
+        <p>Captures d'écrans de jeux vidéo pour s'inspirer d'interfaces créatives</p>
+        <p class="info">Inspiration de composant</p>
       </a>
       <a href="https://lowwwcarbon.com/" target="_blank" rel="nofollow" class="element">
         <h3>Lowwwcarbon</h3>
         <p>Site d'inspiration de site web à faible impacte carbone</p>
         <p class="info">Inspiration · éco-conception</p>
-
       </a>
     </div>
-
     <h2 id="ressources">Ressources</h2>
     <div class="groupe-element">
       <a href="https://www.sketchize.com/" target="_blank" rel="nofollow" class="element">
@@ -291,7 +297,6 @@
           <p>Site d'inspiration de composant</p>
         </div>
       </a>
-     
       <a href="https://m3.material.io/" target="_blank" rel="nofollow" class="element">
         <h3>Material Design 3</h3>
         <p>Documentation pour la 3ème version du design système de Google (Material You)</p>
@@ -308,7 +313,6 @@
         <p class="info"> Documentation</p>
       </a>
     </div>
-
     <h2 id="documentation">Documentation en ligne</h2>
     <div class="groupe-element">
       <a href="https://lawsofux.com" target="_blank" rel="nofollow" class="element">
@@ -344,6 +348,12 @@
         target="_blank" rel="nofollow" class="element">
         <h3>Guidance pour l'accessibilité</h3>
         <p>Infographie réalisée par UK.gov pour les ligne de conception en fonction des handicaps</p>
+      </a>
+      <a href="https://blocnotes.iergo.fr/articles/" target="_blank" rel="nofollow" class="element">
+        <div>
+          <h3>I ergo</h3>
+          <p>Articles de fond et étude de cas sur des sujet UX UI et inclusion</p>
+        </div>
       </a>
       <a href="https://apf-conseil.com/good-design-playbook/good-design-playbook.pdf" target="_blank" rel="nofollow"
         class="element">
@@ -408,7 +418,11 @@
         <p>Article numérique sur le design d'interfaces</p>
         <p class="info"> Culture</p>
       </a>
-
+      <a href="https://www.shortcogs.com/" target="_blank" rel="nofollow" class="element">
+        <h3>Short Cogs</h3>
+        <p>Guide pratique des bias cognitifs</p>
+        <p class="info"> Culture</p>
+      </a>
     </div>
     <h2 id="video">Podcast & vidéo</h2>
     <div class="groupe-element">
@@ -429,7 +443,6 @@
           <p class="info">Chaine youtube, challenge UI - Romain Dao</p>
         </div>
       </a>
-
       <a href="https://anchor.fm/designplus" target="_blank" rel="nofollow" class="element vignette">
         <img src="~assets/designplus.jpg" />
         <div>
@@ -476,7 +489,7 @@
       <a href="https://anchor.fm/gommette" target="_blank" rel="nofollow" class="element vignette">
         <img src="~assets/gommette.jpg" />
         <div>
-          <h3>Gommette </h3>
+          <h3>Gommette</h3>
           <p>Design Sprint Podcast</p>
           <p class="info">Podcast FR - Thibault et Quentin</p>
         </div>
@@ -486,7 +499,7 @@
     <div class="groupe-element">
       <a href="https://www.figma.com/" target="_blank" rel="nofollow" class="element">
         <div>
-          <h3>Figma </h3>
+          <h3>Figma</h3>
           <p>Outil de prototypage le plus collaboratif, gère le mieux les composants, les designs systèmes</p>
         </div>
       </a>
@@ -494,13 +507,18 @@
         <h3>Adobe XD</h3>
         <p>Outil de prototypage d'Adobe, gère le mieux les animations et les contenus multimédias</p>
       </a>
-      <a href="https://proto.io" target="_blank" rel="nofollow" class="element">
-        <h3>Proto.io</h3>
+      <a href="https://penpot.app" target="_blank" rel="nofollow" class="element">
+        <h3>Penpot</h3>
         <p>Outil de prototypage</p>
+        <p class="info">Open source · Licence MPL 2</p>
       </a>
       <a href="https://www.protopie.io/" target="_blank" rel="nofollow" class="element">
         <h3>Protopie</h3>
         <p>Outil de prototypage qui prends en charge le plus d'interaction</p>
+      </a>
+      <a href="https://tally.so/" target="_blank" rel="nofollow" class="element">
+        <h3>Tally</h3>
+        <p>Formulaire en ligne pour les recherches quantitatives</p>
       </a>
     </div>
   </div>
