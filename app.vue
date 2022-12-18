@@ -38,6 +38,8 @@ body {
   font-weight: normal;
 }
 
+
+/* CMS */
 h1 {
   font-size: 55px;
   margin-bottom: 10px;
@@ -63,6 +65,11 @@ h1::after {
   left: 0px;
 }
 
+h2 {
+  font-size: 33px;
+  margin: 77px 0px 5px 0px;
+}
+
 h4 {
   font-family: "Playfair";
   font-weight: normal;
@@ -74,20 +81,13 @@ h4 {
   font-size: large;
 }
 
-@font-face {
-  font-family: "Playfair";
-  src: url("assets/PlayfairDisplay-Italic.woff2") format("woff2");
+p {
+  color: #383838;
+  line-height: 175%;
+  max-width: 650px;
 }
 
-@font-face {
-  font-family: 'DM Sans';
-  src: url("assets/DMSans-Regular.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: "DM Sans bold";
-  src: url("assets/DMSans-Bold.woff2") format("woff2");
-}
+/* Layout */
 
 .ma-vue {
   display: flex;
@@ -111,10 +111,27 @@ h4 {
   margin: 0px auto;
 }
 
-p {
-  color: #383838;
-  line-height: 175%;
-  max-width: 650px;
+.bloc {
+  border-radius: 5px;
+  padding: 5px 22px;
+  flex: 1;
+  margin-right: 32px;
+}
+
+.sommaire a {
+  background: #0048fd0e;
+  color: #0046fd;
+  text-decoration: none;
+  padding: 7px 14px;
+  border-radius: 50px;
+  margin-right: 4px;
+  margin-bottom: 7px;
+  font-size: 14px;
+  display: inline-block;
+}
+
+.sommaire {
+  max-width: 620px;
 }
 
 .groupe-element {
@@ -122,6 +139,8 @@ p {
   flex-direction: row;
   flex-wrap: wrap;
 }
+
+/* element */
 
 .element {
   max-width: 478px;
@@ -165,27 +184,6 @@ p {
   color: #b0afb5;
 }
 
-.sommaire a {
-  background: #0048fd0e;
-  color: #0046fd;
-  text-decoration: none;
-  padding: 7px 14px;
-  border-radius: 50px;
-  margin-right: 4px;
-  margin-bottom: 7px;
-  font-size: 14px;
-  display: inline-block;
-}
-
-.sommaire {
-  max-width: 620px;
-}
-
-h2 {
-  font-size: 33px;
-  margin: 77px 0px 5px 0px;
-}
-
 .vignette {
   display: flex;
   flex-direction: row;
@@ -202,11 +200,20 @@ h2 {
   height: fit-content;
 }
 
-.bloc {
-  border-radius: 5px;
-  padding: 5px 22px;
-  flex: 1;
-  margin-right: 32px;
+/* Polices */
+@font-face {
+  font-family: "Playfair";
+  src: url("assets/PlayfairDisplay-Italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: 'DM Sans';
+  src: url("assets/DMSans-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "DM Sans bold";
+  src: url("assets/DMSans-Bold.woff2") format("woff2");
 }
 
 /* Adaptabilité */

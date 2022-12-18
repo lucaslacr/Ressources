@@ -4,16 +4,13 @@
     <p>développement web, technologie</p>
     <div class="sommaire">
       <a href="#ouvrage">Ouvrage</a>
-
       <a href="#apprendre">Apprendre et se documenter</a>
       <a href="#librairies">Libraries JS</a>
       <a href="#outil">Outil</a>
       <a href="#hebergeur">Hébergeur</a>
       <a href="#cms">CMS</a>
       <a href="#framework">Framework</a>
-
     </div>
-
     <h2 id="ouvrage">Ouvrage</h2>
     <div class="groupe-element">
       <a href="https://www.eyrolles.com/Informatique/Livre/assurance-qualite-web-9782416000096/" target="_blank" rel="nofollow"  
@@ -243,8 +240,6 @@
         <p>Créer en ligne des animations css complexe facilement </p>
       </a>
     </div>
-
-
     <h2 id="hebergeur">Hébergeur</h2>
     <div class="groupe-element">
       <a href="https://app.netlify.com/" target="_blank" rel="nofollow"   class="element">
@@ -332,8 +327,3 @@ export default {
   scrollToTop: true
 }
 </script>
-
-
-
-<style>
-</style>

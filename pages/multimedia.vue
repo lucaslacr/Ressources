@@ -143,6 +143,3 @@ export default {
   scrollToTop: true
   }
 </script>
-
-<style>
-</style>

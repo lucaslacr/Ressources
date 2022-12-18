@@ -31,7 +31,7 @@
       
     </div>
     <h2>Contribuer</h2>
-    <div class="double">
+    <div class="colonnes">
     <Nouvelleressource />
     <Recherche /></div>
   </div>
@@ -48,20 +48,19 @@ export default { components: { Recherche },
   position: relative;
 }
 .nouveau {
- /* color: #4162c5;*/
   color: #b5b5b5;
   border-radius: 3px;
   font-size: small;
   margin-top:-7px;
 }
-.double {
+.colonnes {
   display: flex;
   flex-direction: row;
 }
 
 
 @media (max-width: 1020px) {
-    .double {
+    .colonnes {
   display: flex;
   flex-direction: column;
 }

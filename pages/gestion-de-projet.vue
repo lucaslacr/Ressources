@@ -132,7 +132,6 @@
      </div>
   </div>
 </template>
-
 <script>
 export default {
   data() {
@@ -148,6 +147,3 @@ export default {
   scrollToTop: true
 };
 </script>
-
-<style>
-</style>
