@@ -315,19 +315,16 @@
     </div>
   </div>
 </template>
+<script setup>
+const title = ref("Ressources Web")
+const description = ref("Librairies, logiciel, outil d'audit, référencement, bonnes pratique, CMS, framework")
 
-<script>
-export default {
-  data() {
-    return {
-      title: 'Web - Ressources'
-    }
-  },
-  head() {
-    return {
-      title: this.title,
-    }
-  },
-  scrollToTop: true
-}
+// This will be reactive even you change title/description above
+useHead({
+  title,
+  meta: [{
+    name: 'description',
+    content: description
+  }]
+})
 </script>

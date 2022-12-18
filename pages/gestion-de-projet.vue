@@ -132,18 +132,16 @@
      </div>
   </div>
 </template>
-<script>
-export default {
-  data() {
-    return {
-      title: "Gestion de projet - Ressources DGI",
-    };
-  },
-  head() {
-    return {
-      title: this.title,
-    };
-  },
-  scrollToTop: true
-};
+<script setup>
+const title = ref('Ressources en Gestion de projet')
+const description = ref("logiciel, outil en ligne, documentation, méthodes")
+
+// This will be reactive even you change title/description above
+useHead({
+  title,
+  meta: [{
+    name: 'description',
+    content: description
+  }]
+})
 </script>

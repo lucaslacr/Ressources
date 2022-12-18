@@ -540,18 +540,16 @@
     </div>
   </div>
 </template>
-<script>
-export default {
-  data() {
-    return {
-      title: 'Design Graphique - Ressources'
-    }
-  },
-  head() {
-    return {
-      title: this.title,
-    }
-  },
-  scrollToTop: true
-}
+<script setup>
+const title = ref('Ressources en design graphique')
+const description = ref("Site d'inspiration, logiciel, outil en ligne, icones")
+
+// This will be reactive even you change title/description above
+useHead({
+  title,
+  meta: [{
+    name: 'description',
+    content: description
+  }]
+})
 </script>

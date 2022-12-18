@@ -125,12 +125,24 @@
     </div>
   </div>
 </template>
+<script setup>
+const title = ref("Ressources Multimédia")
+const description = ref("Logiciel, ouvrage et banques de videos et sons")
 
+// This will be reactive even you change title/description above
+useHead({
+  title,
+  meta: [{
+    name: 'description',
+    content: description
+  }]
+})
+</script>
 <script>
 export default {
     data() {
       return {
-        title: 'Multimédia - Ressources DGI'
+        title: ' - Ressources DGI'
       }
     },
     head() {

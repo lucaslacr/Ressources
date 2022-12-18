@@ -523,19 +523,16 @@
     </div>
   </div>
 </template>
+<script setup>
+const title = ref("Ressources En Design UI UX")
+const description = ref("Documentation, logiciel, outils en ligne")
 
-<script>
-export default {
-  data() {
-    return {
-      title: "UI UX Design - Ressources en design",
-    };
-  },
-  head() {
-    return {
-      title: this.title,
-    };
-  },
-  scrollToTop: true
-};
+// This will be reactive even you change title/description above
+useHead({
+  title,
+  meta: [{
+    name: 'description',
+    content: description
+  }]
+})
 </script>

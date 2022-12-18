@@ -35,15 +35,19 @@
     </div>
   </div>
 </template>
+<script setup>
+const title = ref("Ressources en Design graphique, d'interfaces et d’expériences")
+const description = ref("Documentation, outil en ligne, logiciel, méthodes")
 
-<script>
-import Recherche from "../components/Recherche.vue";
-export default {
-  components: { Recherche },
-  scrollToTop: true
-};
+// This will be reactive even you change title/description above
+useHead({
+  title,
+  meta: [{
+    name: 'description',
+    content: description
+  }]
+})
 </script>
-
 <style>
 .element {
   position: relative;
