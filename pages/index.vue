@@ -17,10 +17,9 @@
         <p>Guide pratique des bias cognitifs</p>
         <p class="info"> UX Design</p>
       </a>
-      <a href="https://kastor.green/" target="_blank" rel="nofollow"   class="element">
-        <h3>Kastor Green</h3>
+      <a href="https://www.ecoindex.fr/" target="_blank" rel="nofollow"   class="element">
+        <h3>Eco Index</h3>
         <p>Générateur d'audit d'éco-conception de site</p>
-        <p class="info"> Web · Écologie</p>
       </a>
       <a href="https://tarekraafat.github.io/autoComplete.js/" target="_blank" rel="nofollow"   class="element">
         <h3>autoComplete.js</h3>

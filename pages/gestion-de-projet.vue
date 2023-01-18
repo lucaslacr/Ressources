@@ -71,6 +71,15 @@
         <p>Outil de Gestion de tâches, to do list, wiki, trello, agenda ...</p>
         <p class="info">Cloud - Freemium</p>
       </a>
+      <a href="https://n8n.io/" target="_blank" rel="nofollow"   class="element">
+        <h3>N8n io</h3>
+        <p>Outil d'automatisation</p>
+      </a>
+      <a href="https://www.nocodb.com/" target="_blank" rel="nofollow"   class="element">
+        <h3>Nocodb</h3>
+        <p>Outil de gestion de données (airtable)</p>
+        <p class="info">Self-hosted - Licence GNU Affero General Public</p>
+      </a>
       <a href="https://nextcloud.com" target="_blank" rel="nofollow"   class="element">
         <h3>NextCloud</h3>
         <p>Plateforme de collaboration de contenu, avec édition de documents en temps réel, chat vidéo, mail, disque nuagique, calendrier, mobile desktop et web.</p>
@@ -80,6 +89,11 @@
         <h3>Notion</h3>
         <p>Éditeur structuré, outil de Gestion de tâches, to do list, wiki, agenda ...</p>
         <p class="info">Cloud - Freemium</p>
+      </a>
+      <a href="https://appflowy.io/" target="_blank" rel="nofollow"   class="element">
+        <h3>Appflowy</h3>
+        <p>Éditeur structuré, outil de Gestion de tâches, to do list, wiki, agenda ...</p>
+        <p class="info">Self hosted - licence GNU Affero General Public</p>
       </a>
       <a href="https://skiff.com/pages" target="_blank" rel="nofollow"   class="element">
         <h3>Skiff</h3>

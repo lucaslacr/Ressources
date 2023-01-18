@@ -159,8 +159,8 @@
         <p>Vérifier la compatibilité du code</p>
       </a>
       <a href="https://responsively.app" target="_blank" rel="nofollow"   class="element">
-        <h3>Can I Use</h3>
-        <p>Vérifier la compatibilité du code</p>
+        <h3>Responsively</h3>
+        <p>Extension pour vérifier la responsivité des interfaces en recettage</p>
       </a>
       <a href="https://grid.layoutit.com" target="_blank" rel="nofollow"   class="element">
         <h3>Grid Layoutit</h3>
@@ -199,10 +199,6 @@
         <p>Outil de création d’arborescence</p>
         <p class="info">Gratuit</p>
       </a>
-      <a href="https://n8n.io/" target="_blank" rel="nofollow"   class="element">
-        <h3>N8n io</h3>
-        <p>Outil d'automatisation</p>
-      </a>
       <a href="https://webcode.tools/generators/json-ld/" target="_blank" rel="nofollow"   class="element">
         <h3>The Ultimate JSON-LD Generator</h3>
         <p>Outil de génération de donnée structuré pour les site web (seo,web sémantique)</p>
@@ -220,6 +216,10 @@
       <a href="https://metatags.io" target="_blank" rel="nofollow"   class="element">
         <h3>Visionneuse de méta donnée de site</h3>
         <p>Outil pour vérifier l'affichage de vos métadonnée sur Google et les plateformes sociales</p>
+      </a>
+      <a href="https://wappalyzer.com" target="_blank" rel="nofollow"   class="element">
+        <h3>Wappalyzer</h3>
+        <p>Outil pour analyser les technologie utilisé dans un site : CMS, outils d'audience, libraries, frameworks, plugin de recherche...</p>
       </a>
       <a href="https://filezilla-project.org/" target="_blank" rel="nofollow"   class="element">
         <h3>Filezilla</h3>
@@ -243,6 +243,10 @@
         <h3>Kastor Green</h3>
         <p>Générateur d'audit d'éco-conception de site</p>
       </a>
+      <a href="https://www.ecoindex.fr/" target="_blank" rel="nofollow"   class="element">
+        <h3>Eco Index</h3>
+        <p>Générateur d'audit d'éco-conception de site</p>
+      </a>
       <a href="https://wave.webaim.org/" target="_blank" rel="nofollow"   class="element">
         <h3>Wave</h3>
         <p>Outil d'analyse d’accessibilité de site web</p>
@@ -254,11 +258,6 @@
       <a href="https://app.netlify.com/" target="_blank" rel="nofollow"   class="element">
         <h3>Netlify</h3>
         <p>hébergeur à formule gratuite et payante pour site statique, déploiment facile.</p>
-      </a>
-      <a href="https://www.planethoster.com/fr/Hebergements-World" target="_blank" rel="nofollow"   class="element">
-        <h3>Planethoster</h3>
-        <p>Hébergeur à formule gratuite et payante de site static et dynamique</p>
-        <p class="info">5€/mois + freenium</p>
       </a>
       <a href="https://www.o2switch.fr/" target="_blank" rel="nofollow"   class="element">
         <h3>O2switch</h3>
@@ -284,11 +283,6 @@
         <h3>Underscore_s (Pour WP)</h3>
         <p>Générateur de thème vide pour Wordpress</p>
       </a>
-      <a href="https://getgrav.org/" target="_blank" rel="nofollow"   class="element">
-        <h3>Grav</h3>
-        <p>CMS sans base de données, self-hosted</p>
-        <p class="info">Licence MIT</p>
-      </a>
       <a href="https://strapi.io/" target="_blank" rel="nofollow"   class="element">
         <h3>Strapi</h3>
         <p>CMS qui délivre les données pour tout type d'application avec des APIs</p>
@@ -302,7 +296,7 @@
       </a>
       <a href="https://kit.svelte.dev/" target="_blank" rel="nofollow"   class="element">
         <h3>Svelte Kit</h3>
-        <p>Framework front-end</p>
+        <p>Framework front-end </p>
       </a>
       <a href="https://nextjs.org" target="_blank" rel="nofollow"   class="element">
         <h3>Next js</h3>

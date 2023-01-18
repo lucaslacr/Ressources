@@ -152,7 +152,6 @@
           <p class="info">Jake Knapp, John Zeratsky, Braden Kowitz - Édition Eyrolles</p>
         </div>
       </a>
-      
       <a href="https://www.dunod.com/ux-writing-guide-microcopie" target="_blank" rel="nofollow"
         class="element vignette">
         <img src="~assets/UX-writting-microcopie.jpg" />
@@ -189,10 +188,13 @@
       <a href="https://www.awwwards.com/" target="_blank" rel="nofollow" class="element">
         <h3>Awwwards</h3>
         <p>Organisation qui récompense les sites en terme design web et d'expérience</p>
+        <p class="info">Inspiration de beau site</p>
+
       </a>
       <a href="https://muuuuu.org/" target="_blank" rel="nofollow" class="element">
         <h3>Muuuuu.org</h3>
         <p>Site de web design au Japon</p>
+        <p class="info">Inspiration de beau site</p>
       </a>
       <a href="https://sankoudesign.com" target="_blank" rel="nofollow" class="element">
         <h3>Sankoudesign</h3>
@@ -201,38 +203,59 @@
       <a href="https://www.siteinspire.com/" target="_blank" rel="nofollow" class="element">
         <h3>Site Inspire</h3>
         <p>Site d'inspiration webdesign</p>
+        <p class="info">Inspiration de beau site</p>
       </a>
       <a href="https://godly.website/" target="_blank" rel="nofollow" class="element">
         <h3>Godldy</h3>
         <p>Site d'inspiration webdesign</p>
-      </a>
-      <a href="https://www.flowing.page/" target="_blank" rel="nofollow" class="element">
-        <h3>Flowing Page</h3>
-        <p>Site d'inspiration webdesign</p>
-      </a>
-      <a href="https://www.lapa.ninja/" target="_blank" rel="nofollow" class="element">
-        <h3>Lapa</h3>
-        <p>Site d'inspiration de landing page</p>
+        <p class="info">Inspiration de beau site</p>
       </a>
       <a href="https://www.cssdesignawards.com/" target="_blank" rel="nofollow" class="element">
         <h3>Css Design Awards</h3>
         <p>Organisation qui récompense les sites en terme design web et d'expérience</p>
+        <p class="info">Inspiration de beau site</p>
+      </a>
+      <a href="https://www.landing.love/" target="_blank" rel="nofollow" class="element">
+        <h3>Landing Love</h3>
+        <p>Showcase de sites web animé</p>
+        <p class="info">Inspiration de beau site</p>
+      </a>
+      <a href="https://www.lapa.ninja/" target="_blank" rel="nofollow" class="element">
+        <h3>Lapa</h3>
+        <p>Site d'inspiration de landing page</p>
+        <p class="info">Landing page</p>
       </a>
       <a href="https://onepagelove.com/" target="_blank" rel="nofollow" class="element">
         <h3>One page love</h3>
         <p>Site d'inspiration de design web</p>
-      </a>
-      <a href="https://land-book.com/" target="_blank" rel="nofollow" class="element">
-        <h3>Land-book</h3>
-        <p>Site d'inspiration de design web</p>
-      </a>
-      <a href="https://scrnshts.club/" target="_blank" rel="nofollow" class="element">
-        <h3>Scrnshts </h3>
-        <p>Site d'inspiration de design mobile</p>
+        <p class="info">Landing page</p>
       </a>
       <a href="https://www.landingfolio.com/" target="_blank" rel="nofollow" class="element">
         <h3>Landingfolio</h3>
         <p>Site d'inspiration de page d’atterrissage</p>
+        <p class="info">Landing page</p>
+      </a>
+      <a href="https://pagecollective.com/" target="_blank" rel="nofollow" class="element">
+        <h3>Page Collective</h3>
+        <p>Site d'inspiration de page d’atterrissage</p>
+        <p class="info">Landing page</p>
+      </a>
+      <a href="https://land-book.com/" target="_blank" rel="nofollow" class="element">
+        <h3>Land-book</h3>
+        <p>Site d'inspiration de design web, version gratuite limité</p>
+        <p class="info">Inspiration par composant et type de site</p>
+      </a>
+      <a href="https://scrnshts.club/" target="_blank" rel="nofollow" class="element">
+        <h3>Scrnshts </h3>
+        <p>Site d'inspiration de design mobile</p>
+        <p class="info">Inspiration native mobile</p>
+      </a>
+      <a href="https://www.uisources.com" target="_blank" rel="nofollow" class="element">
+        <div>
+          <h3>UI Sources</h3>
+          <p>Site d'inspiration UI pour application mobile limité en version gratuite</p>
+          <p class="info">Inspiration Mobile native</p>
+        </div>
       </a>
       <a href="https://bestwebsite.gallery/" target="_blank" rel="nofollow" class="element">
         <h3>Best Website Gallery</h3>
@@ -243,15 +266,30 @@
         <p>Collection de composant pour s'inspirer</p>
         <p class="info">Inspiration de composant</p>
       </a>
-      <a href="https://www.landing.love/" target="_blank" rel="nofollow" class="element">
-        <h3>Landing Love</h3>
-        <p>Showcase de sites web animé</p>
-        <p class="info">Inspiration de composant</p>
-      </a>
+     
       <a href="https://www.gameuidatabase.com/index.php" target="_blank" rel="nofollow" class="element">
         <h3>Game UI Database</h3>
         <p>Captures d'écrans de jeux vidéo pour s'inspirer d'interfaces créatives</p>
-        <p class="info">Inspiration de composant</p>
+        <p class="info">Inspiration Game UI</p>
+      </a>
+      <a href="https://collectui.com/" target="_blank" rel="nofollow" class="element">
+        <div>
+          <h3>Collect UI</h3>
+          <p>Site d'inspiration UI</p>
+          <p class="info">Inspiration de composant</p>
+        </div>
+      </a>
+      <a href="https://nicelydone.club" target="_blank" rel="nofollow" class="element">
+        <div>
+          <h3>Nicely done club</h3>
+          <p>Site d'inspiration UI</p>
+        </div>
+      </a>
+      <a href="https://webframe.xyz" target="_blank" rel="nofollow" class="element">
+        <div>
+          <h3>Webframe</h3>
+          <p>Site d'inspiration de composant</p>
+        </div>
       </a>
       <a href="https://lowwwcarbon.com/" target="_blank" rel="nofollow" class="element">
         <h3>Lowwwcarbon</h3>
@@ -273,35 +311,6 @@
           <p>Cadre de téléphone à imprimer pour les wireframes</p>
         </div>
       </a>
-      <a href="https://collectui.com/" target="_blank" rel="nofollow" class="element">
-        <div>
-          <h3>Collect UI</h3>
-          <p>Site d'inspiration UI</p>
-        </div>
-      </a>
-      <a href="https://nicelydone.club" target="_blank" rel="nofollow" class="element">
-        <div>
-          <h3>Nicely done club</h3>
-          <p>Site d'inspiration UI</p>
-        </div>
-      </a>
-      <a href="https://www.uisources.com" target="_blank" rel="nofollow" class="element">
-        <div>
-          <h3>UI Sources</h3>
-          <p>Site d'inspiration UI pour application mobile limité en version gratuite</p>
-        </div>
-      </a>
-      <a href="https://webframe.xyz" target="_blank" rel="nofollow" class="element">
-        <div>
-          <h3>Webframe</h3>
-          <p>Site d'inspiration de composant</p>
-        </div>
-      </a>
-      <a href="https://m3.material.io/" target="_blank" rel="nofollow" class="element">
-        <h3>Material Design 3</h3>
-        <p>Documentation pour la 3ème version du design système de Google (Material You)</p>
-        <p class="info">Design système </p>
-      </a>
       <a href="https://checklists.opquast.com/fr/assurance-qualite-web/" target="_blank" rel="nofollow" class="element">
         <h3>Checklists assurance qualité web</h3>
         <p>Liste des heurisitiques pour améliorer l'expérience utilisateur sur un site web</p>
@@ -319,71 +328,75 @@
         <div>
           <h3>Law of ux</h3>
           <p>Documentation en ligne sur les lois de l'UX en anglais</p>
+          <p class="info">Documentation UX</p>
         </div>
       </a>
       <a href="https://uxplanet.org" target="_blank" rel="nofollow" class="element">
         <div>
           <h3>UX Planet</h3>
           <p>Articles reliés à l'UX design</p>
+          <p class="info">Article UX</p>
+        </div>
+      </a>
+      <a href="https://uxmyths.com" target="_blank" rel="nofollow" class="element">
+        <div>
+          <h3>UX Myths</h3>
+          <p>Blog sur les mythe en design d'expérience</p>
+          <p class="info">Article UX</p>
         </div>
       </a>
       <a href="https://stephaniewalter.design/fr/blog/" target="_blank" rel="nofollow" class="element">
         <div>
           <h3>Stéphanie Walter - Blog</h3>
           <p>Articles reliés à l'UX design</p>
+          <p class="info">UX, UI, veille</p>
         </div>
       </a>
       <a href="https://lagrandeourse.design/blog/" target="_blank" rel="nofollow" class="element">
         <div>
           <h3>La Grande Ourse- Blog </h3>
           <p>Articles de l'agence liée à l'UX design</p>
+          <p class="info">article UX</p>
         </div>
       </a>
       <a href="https://humanebydesign.com" target="_blank" rel="nofollow" class="element">
         <div>
           <h3>Humane by design</h3>
           <p>Guidance pour créer des produit numérique éthique en anglais</p>
+          <p class="info">Article UX et éthique</p>
         </div>
       </a> <a href="https://github.com/UKHomeOffice/posters/tree/master/accessibility/dos-donts/posters_fr"
         target="_blank" rel="nofollow" class="element">
         <h3>Guidance pour l'accessibilité</h3>
         <p>Infographie réalisée par UK.gov pour les ligne de conception en fonction des handicaps</p>
+        <p class="info">Accessibilité</p>
       </a>
       <a href="https://blocnotes.iergo.fr/articles/" target="_blank" rel="nofollow" class="element">
         <div>
           <h3>I ergo</h3>
           <p>Articles de fond et étude de cas sur des sujet UX UI et inclusion</p>
+          <p class="info">Article UX</p>
         </div>
-      </a>
-      <a href="https://apf-conseil.com/good-design-playbook/good-design-playbook.pdf" target="_blank" rel="nofollow"
-        class="element">
-        <h3>Good Design Playbook</h3>
-        <p>Guide pour une conception accessible et inclusive</p>
       </a>
       <a href="https://goodui.org/" target="_blank" rel="nofollow" class="element">
         <div>
           <h3>Good UI</h3>
           <p>Synthèses d'A/B test, pour donner des insights sur les bonnes pratiques ergonomiques</p>
-          <p class="info">en anglais</p>
+          <p class="info">Inspiration conception</p>
         </div>
       </a>
       <a href="https://www.designsystemchecklist.com/" target="_blank" rel="nofollow" class="element">
         <div>
           <h3>Design system checklist</h3>
           <p>Liste des éléments utile pour les Designs systems</p>
-          <p class="info">en anglais</p>
+          <p class="info">UI - Système de design</p>
         </div>
       </a>
       <a href="https://www.nngroup.com/articles/" target="_blank" rel="nofollow" class="element">
         <div>
           <h3>Norman Nilsen Group - Articles</h3>
           <p>Articles et bonnes pratiques UX issues de test utilisateur</p>
-        </div>
-      </a>
-      <a href="https://www.uxpin.com/studio/ebooks/" target="_blank" rel="nofollow" class="element">
-        <div>
-          <h3>UXpin - ebook</h3>
-          <p>Ebooks en téléchargement sur le design</p>
+          <p class="info">Articles UX</p>
         </div>
       </a>
       <a href="https://theproductcrew.io/ressources/" target="_blank" rel="nofollow" class="element">
@@ -397,31 +410,59 @@
         <div>
           <h3>Baymard research</h3>
           <p>Benchmark de page e-commerce en accès libre</p>
+          <p class="info">Benchmark UX</p>
         </div>
       </a>
       <a href="https://www.le-ticket.fr/" target="_blank" rel="nofollow" class="element">
         <div>
           <h3>Le Ticket</h3>
           <p>Articles et ressources sur le Product</p>
-          <p class="info">Product</p>
+          <p class="info">Articles Product</p>
         </div>
       </a>
       <a href="https://www.thiga.co/fr/product-design-toolkit" target="_blank" rel="nofollow" class="element">
         <div>
           <h3>Thiga - ressources</h3>
           <p>Articles et ressources sur le Product design</p>
-          <p class="info">Product</p>
+          <p class="info">Articles Product</p>
         </div>
       </a>
        <a href="https://whydoweinterface.com/" target="_blank" rel="nofollow" class="element">
         <h3>Why do we interface</h3>
         <p>Article numérique sur le design d'interfaces</p>
-        <p class="info"> Culture</p>
+        <p class="info">Culture</p>
       </a>
       <a href="https://www.shortcogs.com/" target="_blank" rel="nofollow" class="element">
         <h3>Short Cogs</h3>
         <p>Guide pratique des bias cognitifs</p>
-        <p class="info"> Culture</p>
+        <p class="info">Culture</p>
+      </a>
+      <a href="https://uxmag.com/" target="_blank" rel="nofollow" class="element">
+        <div>
+          <h3>UX Mag</h3>
+          <p>Articles sur le design UX rédigé par une communauté</p>
+          <p class="info">Article UX</p>
+        </div>
+      </a>
+      <a href="https://www.uxpin.com/studio/ebooks/" target="_blank" rel="nofollow" class="element">
+        <div>
+          <h3>UXpin - ebook</h3>
+          <p>Ebooks en téléchargement sur le design</p>
+          <p class="info">Livre numérique - UX</p>
+        </div>
+      </a>
+      <a href="https://apf-conseil.com/good-design-playbook/good-design-playbook.pdf" target="_blank" rel="nofollow"
+        class="element">
+        <h3>Good Design Playbook</h3>
+        <p>Guide pour une conception accessible et inclusive</p>
+        <p class="info">Livre numérique - Accessibilité</p>
+      </a>
+      <a href="https://anthonyhobday.com/books/" target="_blank" rel="nofollow" class="element">
+        <div>
+          <h3>Anthony Hobday book's</h3>
+          <p>Ouvrages numériques en accès libre sur le design visuel</p>
+          <p class="info">Livre numérique - UX</p>
+        </div>
       </a>
     </div>
     <h2 id="video">Podcast & vidéo</h2>

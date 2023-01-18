@@ -313,11 +313,6 @@
         <p>Suite de logiciel pro de création numérique</p>
         <p class="info">Commerciale 684€/an</p>
       </a>
-      <a href="https://spline.design/" target="_blank" rel="nofollow" class="element">
-        <h3>Spline</h3>
-        <p>Logiciel 3d pour le web (à tester)</p>
-        <p class="info">Freemium</p>
-      </a>
       <a href="https://procreate.art/" target="_blank" rel="nofollow" class="element">
         <h3>ProCreate</h3>
         <p>Logiciel pour Ipad pour l'illustration et la peinture numérique</p>
